@@ -1,0 +1,55 @@
+<mockup version="1.0" skin="sketch" measuredW="1252" measuredH="999" mockupW="1246" mockupH="996">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="6" y="3" w="1246" h="996" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Amore%20-%20More%20Passion%0Ahttp%3A//www.amoreapp.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TabBar" x="102" y="277" w="950" h="418" measuredW="750" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <size>24</size>
+        <text>Welcome%20to%20Amore%2C%20Get%20Started%20Now%2C%20What%20People%20are%20Saying</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="102" y="75" w="950" h="203" measuredW="1000" measuredH="249" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./AmoreApp.Website/Content/xhtmlcss/images/homepage01.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="122" y="326" w="519" h="334" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="458" y="327" w="577" h="349" measuredW="200" measuredH="224" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <size>18</size>
+        <text>What%27s%20Amore%0AFor%20Our%20Eyes%20Only%0AUnleashing%20Our%20Passion%0ANever%20Forget%0AThe%20Perfect%20Gift</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="102" y="699" w="950" h="264" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="769" y="712" w="266" h="243" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::FieldSet" x="141" y="734" w="188" h="194" measuredW="200" measuredH="170" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>About</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::FieldSet" x="357" y="734" w="188" h="194" measuredW="200" measuredH="170" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Community</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::FieldSet" x="566" y="734" w="188" h="194" measuredW="200" measuredH="170" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Premium</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

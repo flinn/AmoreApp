@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="AmoreApp.AmoreAPI.Service1" CodeBehind="UserService.svc.cs" %>

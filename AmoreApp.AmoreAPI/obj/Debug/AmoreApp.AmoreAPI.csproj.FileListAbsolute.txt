@@ -1,0 +1,9 @@
+C:\code\AmoreApp\AmoreApp.AmoreAPI\bin\AmoreApp.AmoreAPI.dll
+C:\code\AmoreApp\AmoreApp.AmoreAPI\bin\AmoreApp.AmoreAPI.pdb
+C:\code\AmoreApp\AmoreApp.AmoreAPI\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\code\AmoreApp\AmoreApp.AmoreAPI\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\code\AmoreApp\AmoreApp.AmoreAPI\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\code\AmoreApp\AmoreApp.AmoreAPI\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\code\AmoreApp\AmoreApp.AmoreAPI\obj\Debug\ResolveAssemblyReference.cache
+C:\code\AmoreApp\AmoreApp.AmoreAPI\obj\Debug\AmoreApp.AmoreAPI.dll
+C:\code\AmoreApp\AmoreApp.AmoreAPI\obj\Debug\AmoreApp.AmoreAPI.pdb
